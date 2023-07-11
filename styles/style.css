@@ -67,6 +67,7 @@
     margin: 178px 764px 0px 764px;
     font-size: 40px;
     font-weight: 800;
+
 }
 
 .featured-flower-description {
@@ -112,21 +113,82 @@
     padding: 67px 75px 0px 75px;
 }
 
-/* .flower-tag {
+
+.flower-tag {
     color: #272727;
     text-align: center;
     font-size: 24px;
     font-weight: 700;
     line-height: 35px;
     text-decoration-line: underline;
-    margin-top:32px;
-} */
-.flower-tag{
-    color:#272727;
-    text-align:center;
-    font-size:24px;
-    font-weight:700;
-    line-height: 35px;
-    text-decoration-line: underline;
-    margin-top:32px;
+    margin-top: 32px;
 }
+
+/* Support Style begins */
+ .support {
+    display: flex;
+    margin: 128px 240px 0px 240px;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    max-width: 1440px;
+    height: 320px;
+    border: none;
+    color: rgba(39, 39, 39, 0.80);
+    
+
+} 
+
+
+.support-photo {
+    width: 88px;
+    height: 88px;
+    padding-top: 86px;
+    padding-bottom: 24px;
+
+}
+
+.p1 {
+    margin-left: 317px;
+    
+}
+
+ .line-1 { 
+    color: rgba(39, 39, 39, 0.80);
+    text-align: center;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 35px; 
+    margin-left: 175px;
+    
+}
+
+.p2 { 
+
+    margin-left: 215px;
+
+}
+
+.line-2 {
+    color: rgba(39, 39, 39, 0.80);
+    text-align: center;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 35px; 
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.p3 {
+
+    margin-left: 60px;
+     /* margin-right: 232px;  */
+
+}
+
+.line-3 {
+    color: rgba(39, 39, 39, 0.80);
+    text-align: center;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 35px;
+}  
